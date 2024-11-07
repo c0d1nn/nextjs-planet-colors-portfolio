@@ -1,0 +1,6 @@
+Code is prepared only in Footer.tsx, step by step on how to code the other sections is in the tutorial
+
+1) You will create a new folder for your project
+2) npx create-next-app@latest . --typescript --eslint
+3) you can copy paste Layout.tsx + Page.tsx + Globals.css content into your files in /app folder
+4) drag /assets folder and also /components to your root folder (just a folder where is was your project created, so this assets folder will be next to "app" folder etc, for example
